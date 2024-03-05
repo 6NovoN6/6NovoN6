@@ -6,7 +6,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Applied+computer+science+student)](https://git.io/typing-svg)
-
+<h1>Обо мне</h1>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!--
 **6NovoN6/6NovoN6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
