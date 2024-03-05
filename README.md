@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Applied+computer+science+student)](https://git.io/typing-svg)
 <h1>Обо мне</h1>
 <h3>Студент Российского Государственного Аграрного университета (РГАУ-МСХА им. К.А.Тимирязева), обучаюсь по специальности 'прикладная информатика'</h3>
-
+<h2>Skills and tools</h2>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
