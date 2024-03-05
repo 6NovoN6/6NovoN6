@@ -8,6 +8,7 @@
 <h1>Обо мне</h1>
 <h3>Студент Российского Государственного Аграрного университета (РГАУ-МСХА им. К.А.Тимирязева), обучаюсь по специальности 'прикладная информатика'</h3>
 <h2>Skills and tools</h2>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
